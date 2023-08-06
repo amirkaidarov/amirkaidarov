@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🧑‍💻 I am Software Engineer with a passion for Science and Mobile Development<br>📬 I am currently working on my portfolio website
+🧑‍💻 I am Software Engineer with a passion for Data Science, ML/AI, and Mobile Development<br>📬 I am currently a Software Engineering intern at Medidata Solutions!
 
 
 ## 🌐 Socials:
